@@ -36,7 +36,7 @@ function ProfileRelationsBox(propriedades){
           </li>
           ) 
         })}
-      </ul> */}
+      </ul> teste */}
     </ProfileRelationsBoxWrapper>
   )
 }
